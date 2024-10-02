@@ -1,0 +1,27 @@
+Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+l------l.
+l   1  l.
+l------l.
+
+l------l.
+l   2  l.
+l------l.
+
+l------l
+l   3  l
+l------l
+
+Ligaria um dos interruptores e aguadaria alguns minutos. Em seguida, eu desligaria e ligaria outro interruptor. Deixaria o terceiro interruptor desligado.
+obs: eu irei marcar cada um dos interruptores com um risco para o primeiro, dois para o segundo e três para o terceiro.
+
+Ida 1) Quando entrar em alguma sala, vou me deparar com as seguintes opções:
+uma lâmpada quente: Esta corresponde ao interruptor que eu liguei e desliguei primeiro.
+uma lâmpada fria: Esta corresponde ao interruptor que eu liguei por último.
+uma lâmpada apagada: Esta corresponde ao interruptor que eu deixei sempre desligado.
+
+Com essas informações eu tocaria em uma lampada e iria verificar a lampada, se estiver quente na primeira ida, já sei que esta sala é do primeiro interruptor.
+
+Ida 2) Se a lampada estiver fria, eu saberei que essa sala é do segundo interruptor.
+
+A lógica pode ser aplicado em qualquer situação, tanto quente, quanto frio e assim por diante.

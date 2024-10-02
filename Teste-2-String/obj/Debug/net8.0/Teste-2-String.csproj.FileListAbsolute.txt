@@ -1,0 +1,15 @@
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\bin\Debug\net8.0\Teste-2-String.exe
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\bin\Debug\net8.0\Teste-2-String.deps.json
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\bin\Debug\net8.0\Teste-2-String.runtimeconfig.json
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\bin\Debug\net8.0\Teste-2-String.dll
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\bin\Debug\net8.0\Teste-2-String.pdb
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.AssemblyInfoInputs.cache
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.AssemblyInfo.cs
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.csproj.CoreCompileInputs.cache
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.sourcelink.json
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.dll
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\refint\Teste-2-String.dll
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.pdb
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\Teste-2-String.genruntimeconfig.cache
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-2-String\obj\Debug\net8.0\ref\Teste-2-String.dll
