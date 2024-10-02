@@ -1,0 +1,14 @@
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\bin\Debug\net8.0\Teste-1.exe
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\bin\Debug\net8.0\Teste-1.deps.json
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\bin\Debug\net8.0\Teste-1.runtimeconfig.json
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\bin\Debug\net8.0\Teste-1.dll
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\bin\Debug\net8.0\Teste-1.pdb
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.AssemblyInfoInputs.cache
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.AssemblyInfo.cs
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.csproj.CoreCompileInputs.cache
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.dll
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\refint\Teste-1.dll
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.pdb
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\Teste-1.genruntimeconfig.cache
+C:\dev\Testes\teste-tecnico-Target-Sistemas\Teste-1\obj\Debug\net8.0\ref\Teste-1.dll
